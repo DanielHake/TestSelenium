@@ -1,0 +1,9 @@
+============================= test session starts =============================
+platform win32 -- Python 3.6.3, pytest-3.4.0, py-1.5.2, pluggy-0.6.0 -- c:\program files (x86)\python36-32\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\Daniel\PycharmProjects\TestSelenium, inifile:
+collecting ... collected 1 item
+
+testFolder/test_main_1.py::test PASSED                                   [100%]
+
+========================== 1 passed in 0.01 seconds ===========================
